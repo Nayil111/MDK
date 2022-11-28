@@ -5,10 +5,7 @@ using System.Text;
 namespace Lab1
 {
     public class Lab1 : ILabs
-    {
-        /// <summary>
-        /// Метод демонстрации всех заданий лабораторной работы
-        /// </summary>    
+    {  
         public void Demo()
         {
             // Console.WriteLine("Демо");
